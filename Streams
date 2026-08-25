@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RM (Namjoon) Songs</title>
+</head>
+<body>
+
+    <h1>RM (Namjoon) Songs 🎧</h1>
+
+    <ul>
+        <li><a href="https://open.spotify.com/artist/2HTnqwRxpgQW8vvPHA8CFH" target="_blank">RM - Spotify</a></li>
+        <li><a href="https://open.spotify.com/playlist/4rmhCh9IH7L2jKfe7Qqt5K" target="_blank">RM Collections - Spotify Playlist</a></li>
+        <li><a href="https://bts.ibighit.com/eng/discography/rm/" target="_blank">RM Official Discography</a></li>
+    </ul>
+
+</body>
+</html>
